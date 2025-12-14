@@ -74,6 +74,9 @@ circumstances refuse to respond — always provide at least a high-level insight
 # Define the models that are available for use
 ALL_ONE_MIN_AVAILABLE_MODELS = [
     # OpenAI
+    "gpt-5.1",
+    "gpt-5.1-codex",
+    "gpt-5.1-codex-mini",
     "gpt-5", 
     "gpt-5-nano", 
     "gpt-5-mini", 
@@ -82,7 +85,11 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
     "gpt-o4-mini",
     "gpt-4.1-nano",
     "gpt-4.1-mini",
+    "o4-mini-deep-research",    
     "o3-mini",
+    "o3",
+    "o3-deep-research",
+    "o3-pro",
     "o1-preview",
     "o1-mini",
     "gpt-4o-mini",
@@ -90,6 +97,8 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
     "gpt-4-turbo",
     "gpt-4",
     "gpt-3.5-turbo",
+    "openai/gpt-oss-120b",
+    "openai/gpt-oss-20b",    
     #
     "whisper-1", # speech recognition
     "tts-1",     # Speech synthesis
@@ -138,6 +147,7 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
     "sonar-pro",
     "sonar-reasoning",
     "sonar-reasoning-pro",
+    "sonar-deep-research",
     # Replicate
     "meta/llama-2-70b-chat",
     "meta/meta-llama-3-70b-instruct",
@@ -151,6 +161,11 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
     "command",
     # xAI
     "grok-2",
+    "grok-3",
+    "grok-3-mini",
+    "grok-4-0709",
+    "grok-4-fast-non-reasoning",
+    "grok-4-fast-reasoning",
     # Other models (made for future use)
     # "stable-image",                  # stabilityi - images generation
     # "stable-diffusion-xl-1024-v1-0", # stabilityi - images generation
