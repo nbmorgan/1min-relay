@@ -117,6 +117,10 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
     "claude-3-7-sonnet-20250219",
     "claude-sonnet-4-20250514",
     "claude-opus-4-20250514",
+    "claude-haiku-4-5-20251001",
+    "claude-opus-4-1-20250805",
+    "claude-opus-4-5-20251101",
+    "claude-sonnet-4-5-20250929",   
     # GoogleAI
     "gemini-2.0-flash-lite"
     "gemini-2.0-flash",
@@ -125,6 +129,7 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
     "gemini-1.0-pro",
     "gemini-1.5-pro",
     "gemini-1.5-flash",
+    "gemini-3-pro-preview",    
     # "google-tts",            # Speech synthesis
     # "latest_long",           # speech recognition
     # "latest_short",          # speech recognition
@@ -136,9 +141,14 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
     # "chat-bison@002",
     # MistralAI
     "mistral-large-latest",
+    "mistral-medium-latest",
     "mistral-small-latest",
+    "ministral-14b-latest",
+    "magistral-medium-latest",  
+    "magistral-small-latest",
     "mistral-nemo",
     "pixtral-12b",
+    "open-mistral-nemo",
     "open-mixtral-8x22b",
     "open-mixtral-8x7b",
     "open-mistral-7b",
@@ -159,6 +169,7 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
     "deepseek-reasoner",
     # Cohere
     "command",
+    "command-r-08-2024",    
     # xAI
     "grok-2",
     "grok-3",
