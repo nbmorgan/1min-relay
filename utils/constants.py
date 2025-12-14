@@ -122,7 +122,7 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
     "claude-opus-4-5-20251101",
     "claude-sonnet-4-5-20250929",   
     # GoogleAI
-    "gemini-2.0-flash-lite"
+    "gemini-2.0-flash-lite",
     "gemini-2.0-flash",
     "gemini-2.5-pro",
     "gemini-2.5-flash",    
@@ -213,12 +213,28 @@ ALL_ONE_MIN_AVAILABLE_MODELS = [
 
 # Define the models that support vision inputs
 VISION_SUPPORTED_MODELS = [
+    "gpt-5.1",
     "gpt-5", 
     "gpt-5-mini", 
     "gpt-5-chat-latest",
     "gpt-4o",
     "gpt-4o-mini",
-    "gpt-4-turbo"
+    "gpt-4-turbo",
+    "grok-4-fast-non-reasoning",
+    "grok-4-fast-reasoning",
+    "gemini-2.0-flash-lite",
+    "gemini-2.0-flash",
+    "gemini-2.5-pro",
+    "gemini-2.5-flash",    
+    "gemini-3-pro-preview", 
+    "claude-3-haiku-20240307",
+    "claude-3-5-haiku-20241022",
+    "claude-sonnet-4-20250514",
+    "claude-opus-4-20250514",
+    "claude-haiku-4-5-20251001",
+    "claude-opus-4-1-20250805",
+    "claude-opus-4-5-20251101",
+    "claude-sonnet-4-5-20250929"
 ]
 
 # Define the models that support code interpreter
