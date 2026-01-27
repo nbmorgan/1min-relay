@@ -1,0 +1,79 @@
+Alibaba Models:
+qwen3-max - Qwen3 Max - Alibaba Cloud
+qwen-plus - Qwen Plus - Alibaba Cloud
+qwen-max - Qwen Max - Alibaba Cloud
+qwen-flash - Qwen Flash - Alibaba Cloud
+
+Anthropic Models:
+claude-sonnet-4-5-20250929 - Claude 4.5 Sonnet - Anthropic
+claude-sonnet-4-20250514 - Claude 4 Sonnet - Anthropic
+claude-opus-4-5-20251101 - Claude 4.5 Opus - Anthropic
+claude-opus-4-20250514 - Claude 4 Opus - Anthropic
+claude-opus-4-1-20250805 - Claude 4.1 Opus - Anthropic
+claude-haiku-4-5-20251001 - Claude 4.5 Haiku - Anthropic
+Cohere Models:
+command-r-08-2024 - Command R - Cohere
+
+DeepSeek Models:
+deepseek-reasoner - DeepSeek V3.2 Reasoner
+deepseek-chat - DeepSeek V3.2 Chat
+GoogleAI Models:
+gemini-3-pro-preview - Gemini 3 Pro - GoogleAI
+gemini-2.5-pro - Gemini 2.5 Pro - GoogleAI
+gemini-2.5-flash - Gemini 2.5 Flash - GoogleAI
+
+Mistral Models:
+magistral-small-latest - Magistral Small 1.2 - MistralAI
+magistral-medium-latest - Magistral Medium 1.2 - MistralAI
+ministral-14b-latest - Ministral 14B Latest - MistralAI
+open-mistral-nemo - Mistral Open Nemo - MistralAI
+mistral-small-latest - Mistral Small - MistralAI
+mistral-medium-latest - Mistral Medium 3.1 - MistralAI
+mistral-large-latest - Mistral Large 2 - MistralAI
+
+OpenAI Models:
+gpt-5.1-codex-mini - GPT-5.1 Codex Mini - OpenAI
+gpt-5.1-codex - GPT-5.1 Codex - OpenAI
+o4-mini - GPT-o4 Mini - OpenAI
+o3-mini - GPT-o3 Mini - OpenAI
+gpt-5.2-pro - GPT-5.2 Pro - OpenAI
+gpt-5.2 - GPT-5.2 - OpenAI
+gpt-5.1 - GPT-5.1 - OpenAI
+gpt-5-nano - GPT-5 Nano - OpenAI
+gpt-5-mini - GPT-5 Mini - OpenAI
+gpt-5-chat-latest - GPT-5 Chat Latest - OpenAI
+gpt-5 - GPT-5 - OpenAI
+gpt-4o-mini - GPT-4o Mini - OpenAI
+gpt-4o - GPT-4o - OpenAI
+gpt-4.1-nano - GPT-4.1 nano - OpenAI
+gpt-4.1-mini - GPT-4.1 mini - OpenAI
+gpt-4.1 - GPT-4.1 - OpenAI
+gpt-4-turbo - GPT-4 Turbo - OpenAI
+gpt-3.5-turbo - GPT-3.5 - OpenAI
+o4-mini-deep-research - o4 Mini Deep Research - OpenAI
+o3-pro - o3 Pro - OpenAI
+o3-deep-research - o3 Deep Research - OpenAI
+o3 - o3 - OpenAI
+
+Perplexity Models:
+sonar-reasoning-pro - Perplexity [reasoning pro]
+sonar-reasoning - Perplexity [reasoning]
+sonar-pro - Perplexity [pro]
+sonar-deep-research - Perplexity [deep research]
+sonar - Perplexity
+
+xAI Models:
+grok-4-fast-reasoning - xAI - Grok 4 Fast Reasoning
+grok-4-fast-non-reasoning - xAI - Grok 4 Fast Non-Reasoning
+grok-4-0709 - xAI - Grok 4
+grok-3-mini - xAI - Grok 3 Mini
+grok-3 - xAI - Grok 3
+
+Extra Models:
+meta/meta-llama-3.1-405b-instruct - LLaMA 3.1 405b - MetaAI
+meta/meta-llama-3-70b-instruct - LLaMA 3 70b - MetaAI
+meta/llama-4-scout-instruct - LLaMA 4 Scout Instruct - MetaAI
+meta/llama-4-maverick-instruct - LLaMA 4 Maverick Instruct - MetaAI
+meta/llama-2-70b-chat - LLaMA 2 70b - MetaAI
+openai/gpt-oss-20b - GPT OSS 20b - OpenAI
+openai/gpt-oss-120b - GPT OSS 120b - OpenAI
